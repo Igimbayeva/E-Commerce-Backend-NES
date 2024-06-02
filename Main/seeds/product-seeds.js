@@ -1,6 +1,25 @@
 const { Product } = require('../models');
 
 const productData = [
+  // {
+  //   product_name: 'Plain T-Shirt',
+  //   price: 12.99,
+  //   stock: 10,
+  //   category_id: 1, // Assuming category_id 1 corresponds to 'Shirts'
+  // },
+  // {
+  //   product_name: 'Running Shorts',
+  //   price: 24.99,
+  //   stock: 15,
+  //   category_id: 2, // Assuming category_id 2 corresponds to 'Shorts'
+  // },
+  // {
+  //   product_name: 'Wireless Headphones',
+  //   price: 89.99,
+  //   stock: 5,
+  //   category_id: 3, // Assuming category_id 3 corresponds to 'Music'
+  // },
+  // Add more products as needed
   {
     product_name: 'Plain T-Shirt',
     price: 14.99,

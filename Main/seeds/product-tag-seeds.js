@@ -1,6 +1,19 @@
 const { ProductTag } = require('../models');
 
 const productTagData = [
+  // {
+  //   product_id: 1, // Assuming product_id 1 corresponds to 'Plain T-Shirt'
+  //   tag_id: 1,     // Assuming tag_id 1 corresponds to 'Casual'
+  // },
+  // {
+  //   product_id: 2, // Assuming product_id 2 corresponds to 'Running Shorts'
+  //   tag_id: 2,     // Assuming tag_id 2 corresponds to 'Sportswear'
+  // },
+  // {
+  //   product_id: 3, // Assuming product_id 3 corresponds to 'Wireless Headphones'
+  //   tag_id: 3,     // Assuming tag_id 3 corresponds to 'Electronics'
+  // },
+  // Add more product-tag relationships as needed
   {
     product_id: 1,
     tag_id: 6,
